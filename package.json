@@ -152,7 +152,7 @@
     "lodash": "^4.17.4",
     "method-override": "^2.3.7",
     "moment": "^2.17.1",
-    "morgan": "^1.7.0",
+    "morgan": "^1.8.0",
     "nodemailer": "^3.0.1",
     "normalizr": "3.1.0",
     "objection": "next",
